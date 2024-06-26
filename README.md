@@ -13,3 +13,9 @@
 #### 10. Running the app
 
 ## How to run the project on your local machine: streamlit run app.py
+
+
+
+https://github.com/shubhankar2870/whatsapp-chat-analyzer/assets/88725449/90656ff2-b7ab-4e9b-8cfd-f9a6a0e4f8f5
+
+
